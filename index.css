@@ -1,0 +1,33 @@
+body{
+    background:url(./azul.jpg)
+
+}
+H1{
+    background-image: url(./negro\ 2.jpg);
+    color:white;
+    text-align: center;
+    font-family: Muthiara -Demo Version-;
+}
+h2{
+    font-family: Ink Free;
+}
+.datos{
+    font-style: oblique;
+}
+img{
+    height: 400px;
+    margin-left: 35%;
+}
+strong{
+    background-color:dodgerblue;
+}
+.pgn{
+    height: 200px; 
+    image-;
+}
+.fav{
+    text-align: center;
+}
+p{
+    font-family:cursive;
+}
